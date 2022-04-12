@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pepperProject.com" resolutions="1x" timestamp="1649756138602">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pepperProject.com" resolutions="1x" timestamp="1649756479785">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="recipe-beeffries.css" crc="4031946620" ref="recipe-beeffries"/>
     <file name="revati.css" crc="4020139464" ref="revati"/>
-    <file name="recipes.css" crc="328991744" ref="recipes"/>
+    <file name="recipes.css" crc="482667299" ref="recipes"/>
     <file name="kanata.css" crc="7921690" ref="kanata"/>
     <file name="recipe-paneer.css" crc="171200600" ref="recipe-paneer"/>
     <file name="recipe-kongpao.css" crc="3952063108" ref="recipe-kongpao"/>
@@ -94,7 +94,7 @@
   </folder>
   <file name="index.html" crc="466681916" seo="true" mt="1649755464072" redirect="true"/>
   <file name="team.html" crc="3991020477" seo="true" mt="1649755555840" redirect="true"/>
-  <file name="recipes.html" crc="3816094395" seo="true" mt="1649756089875" redirect="true"/>
+  <file name="recipes.html" crc="113192565" seo="true" mt="1649756461775" redirect="true"/>
   <file name="recipe-peppertini.html" crc="410063227" seo="true" mt="1649754318690" redirect="true"/>
   <file name="revati.html" crc="3837185518" seo="true" mt="1649752046736" redirect="true"/>
   <file name="javier.html" crc="3807019707" seo="true" mt="1649752242273" redirect="true"/>
