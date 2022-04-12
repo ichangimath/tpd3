@@ -20,24 +20,6 @@
     <lastmod>2022-04-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://pepperProject.com/images/peppertini.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pepperProject.com/images/beeffries.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pepperProject.com/images/chilliconcarne.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pepperProject.com/images/chillipanner.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pepperProject.com/images/stew.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://pepperProject.com/images/spicycoockies.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://pepperProject.com/recipe-peppertini.html</loc>

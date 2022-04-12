@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pepperProject.com" resolutions="1x" timestamp="1649755838715">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pepperProject.com" resolutions="1x" timestamp="1649756138602">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="recipe-beeffries.css" crc="4031946620" ref="recipe-beeffries"/>
     <file name="revati.css" crc="4020139464" ref="revati"/>
-    <file name="recipes.css" crc="4261286137" ref="recipes"/>
+    <file name="recipes.css" crc="328991744" ref="recipes"/>
     <file name="kanata.css" crc="7921690" ref="kanata"/>
     <file name="recipe-paneer.css" crc="171200600" ref="recipe-paneer"/>
     <file name="recipe-kongpao.css" crc="3952063108" ref="recipe-kongpao"/>
@@ -37,24 +37,18 @@
     <file name="u148-r.png" crc="4033499781" ref="index"/>
     <file name="u158.png" crc="4113890053" ref="index"/>
     <file name="u158-r.png" crc="4028917667" ref="index"/>
-    <file name="peppertini.png" crc="4218218492" seo="true" ref="recipes">
-      <caption webpage="recipes" alt=""/>
-    </file>
-    <file name="beeffries.png" crc="4093689103" seo="true" ref="recipes">
-      <caption webpage="recipes" alt=""/>
-    </file>
-    <file name="chilliconcarne.png" crc="4073394671" seo="true" ref="recipes">
-      <caption webpage="recipes" alt=""/>
-    </file>
-    <file name="chillipanner.png" crc="3779737280" seo="true" ref="recipes">
-      <caption webpage="recipes" alt=""/>
-    </file>
-    <file name="stew.png" crc="191721154" seo="true" ref="recipes">
-      <caption webpage="recipes" alt=""/>
-    </file>
-    <file name="spicycoockies.png" crc="445215040" seo="true" ref="recipes">
-      <caption webpage="recipes" alt=""/>
-    </file>
+    <file name="u446.png" crc="3789795053" ref="recipes"/>
+    <file name="u446-r.png" crc="4146753247" ref="recipes"/>
+    <file name="u475.png" crc="462643895" ref="recipes"/>
+    <file name="u475-r.png" crc="94277921" ref="recipes"/>
+    <file name="u495.png" crc="4211260967" ref="recipes"/>
+    <file name="u495-r.png" crc="65663011" ref="recipes"/>
+    <file name="u518.png" crc="4035081506" ref="recipes"/>
+    <file name="u518-r.png" crc="251338622" ref="recipes"/>
+    <file name="u531.png" crc="3939012261" ref="recipes"/>
+    <file name="u531-r.png" crc="113930172" ref="recipes"/>
+    <file name="u550.png" crc="3780963555" ref="recipes"/>
+    <file name="u550-r.png" crc="347946397" ref="recipes"/>
     <file name="peppertinin.png" crc="334808479" seo="true" ref="recipe-peppertini">
       <caption webpage="recipe-peppertini" alt=""/>
     </file>
@@ -99,15 +93,15 @@
     </file>
   </folder>
   <file name="index.html" crc="466681916" seo="true" mt="1649755464072" redirect="true"/>
-  <file name="team.html" crc="528366882" seo="true" mt="1649755555840" redirect="true"/>
-  <file name="recipes.html" crc="4246235941" seo="true" mt="1649755349090" redirect="true"/>
-  <file name="recipe-peppertini.html" crc="54102421" seo="true" mt="1649754318690" redirect="true"/>
-  <file name="revati.html" crc="312304012" seo="true" mt="1649752046736" redirect="true"/>
-  <file name="javier.html" crc="84054646" seo="true" mt="1649752242273" redirect="true"/>
-  <file name="kanata.html" crc="249182726" seo="true" mt="1649752142968" redirect="true"/>
-  <file name="recipe-beeffries.html" crc="4198737341" seo="true" mt="1649754590728" redirect="true"/>
-  <file name="recipe-chilli.html" crc="184371980" seo="true" mt="1649754728631" redirect="true"/>
-  <file name="recipe-paneer.html" crc="4223253033" seo="true" mt="1649755161203" redirect="true"/>
-  <file name="recipe-kongpao.html" crc="4198810668" seo="true" mt="1649755114348" redirect="true"/>
-  <file name="recipe-cookies.html" crc="4191791100" seo="true" mt="1649755401805" redirect="true"/>
+  <file name="team.html" crc="3991020477" seo="true" mt="1649755555840" redirect="true"/>
+  <file name="recipes.html" crc="3816094395" seo="true" mt="1649756089875" redirect="true"/>
+  <file name="recipe-peppertini.html" crc="410063227" seo="true" mt="1649754318690" redirect="true"/>
+  <file name="revati.html" crc="3837185518" seo="true" mt="1649752046736" redirect="true"/>
+  <file name="javier.html" crc="3807019707" seo="true" mt="1649752242273" redirect="true"/>
+  <file name="kanata.html" crc="3987676318" seo="true" mt="1649752142968" redirect="true"/>
+  <file name="recipe-beeffries.html" crc="3861261355" seo="true" mt="1649754590728" redirect="true"/>
+  <file name="recipe-chilli.html" crc="3860532620" seo="true" mt="1649754728631" redirect="true"/>
+  <file name="recipe-paneer.html" crc="4044733125" seo="true" mt="1649755161203" redirect="true"/>
+  <file name="recipe-kongpao.html" crc="84824886" seo="true" mt="1649755114348" redirect="true"/>
+  <file name="recipe-cookies.html" crc="379666294" seo="true" mt="1649755401805" redirect="true"/>
 </manifest>
